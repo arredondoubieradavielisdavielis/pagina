@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    font-family: cursive;
+    
+}
+.nav{
+    display: flex;
+    list-style: none;
+    height: 60px;
+    background-color: #76b28e;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.nav a{
+    color: #f1f1f1;
+    text-decoration: none;
+}
+.logo{
+    margin-top: 50px;
+}
+
+.ContenedordeContactos{
+    margin-top: 130px;
+}
+.ContenedordeContactos h2{
+    font-size: 40px;
+    color: #76b28e;
+}
+.Contactosdos p{
+    margin: 20px;
+}
+
+.Contactosdos{
+font-size: 20px;
+text-align: center;
+color: #151616;
+background-color: aliceblue;
+
+}
+
+
+
+
+
+

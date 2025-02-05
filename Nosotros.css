@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    font-family: cursive;
+
+}
+.nav{
+    display: flex;
+    list-style: none;
+    height: 60px;
+    background-color: #76b28e;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav a{
+    color: #f1f1f1;
+    text-decoration: none;
+}
+.logo{
+    margin-top: 50px;
+}
+.bienvenido{
+    color: #76b28e;
+    position: absolute;
+    top: 130px;
+    padding-left: 57%;
+    margin-top: 10%;
+}
+.bienvenidodos{
+    padding-top: 20%;
+    font-size: 17px;
+    display: flex;
+}
+.bienvenidodos img{
+    width: 300px;
+    height: 400px;
+    margin-top: -150px;
+    position: absolute;
+    padding-left: 10%;
+}
+.bienvenidodos p{
+    padding-left: 40%;
+    text-align: center;
+}
